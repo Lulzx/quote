@@ -1,5 +1,5 @@
 # Please, insert your bot api key, provided by the BotFather.
-TELEGRAM_BOT_KEY = ""
+TELEGRAM_BOT_KEY = "455448121:AAES_lCFjeZaLSe3_Sy03638jJJT0yvMWnc:joy:"
 
 ENABLE_WEBHOOK = False
 
